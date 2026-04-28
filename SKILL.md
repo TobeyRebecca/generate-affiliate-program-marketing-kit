@@ -5,6 +5,9 @@ homepage: "https://www.skillboss.co/skills/generate-affiliate-program-marketing-
 metadata: {"category":"marketing-automation","subcategory":"ad-content","source":"daily-skill-generator-2026-03-28_to_2026-04-03","skill_id":"generate-affiliate-program-marketing-kit","generated_day":"2026-03-28"}
 ---
 
+> 📖 **Complete setup guide**: https://skillboss.co/skill.md
+
+
 # Generate Affiliate Program Marketing Kit
 
 Generates a complete affiliate marketing kit with banners, swipe copy, social posts, and tracking guidelines. Use when launching or scaling affiliate programs.
